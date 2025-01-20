@@ -1,3 +1,10 @@
+# ModernX-reduced
+基于v0.4.0。
+
+新增了reduced布局，降低osc高度，减少画面遮挡，可通过modernx.conf->layout_option进行切换
+
+PS：上游已merge了本修改，可以直接使用[zydezu/ModernX](https://github.com/zydezu/ModernX)
+
 # ModernX
 >
 > [!IMPORTANT]
